@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32505.173
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Keryhe.Pipelines", "Keryhe.Pipelines\Keryhe.Pipelines.csproj", "{B0BE3D0A-BFE7-4044-9EF8-23B81849615D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Keryhe.Pipelines.Service", "Keryhe.Pipelines.Service\Keryhe.Pipelines.Service.csproj", "{1B1A0AAE-2C61-4869-A2A0-E0CF587472C2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B0BE3D0A-BFE7-4044-9EF8-23B81849615D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0BE3D0A-BFE7-4044-9EF8-23B81849615D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B0BE3D0A-BFE7-4044-9EF8-23B81849615D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B0BE3D0A-BFE7-4044-9EF8-23B81849615D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1B1A0AAE-2C61-4869-A2A0-E0CF587472C2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B1A0AAE-2C61-4869-A2A0-E0CF587472C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B1A0AAE-2C61-4869-A2A0-E0CF587472C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B1A0AAE-2C61-4869-A2A0-E0CF587472C2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9F084237-50C3-41C8-80A9-8E6419D6370D}
+	EndGlobalSection
+EndGlobal
